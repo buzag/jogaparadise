@@ -33,7 +33,7 @@
     "versionFirst": "4.7.10",
     "siteFonts": [],
     "uniqCompNum": 48,
-    "versionPublish": "4.7.8",
+    "versionPublish": "4.8.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "siteUrl": "https://jogaparadise.hu",
