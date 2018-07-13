@@ -1086,7 +1086,8 @@
               }
             },
             ".body-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             },
             ".head-item": {
               "color": "#ffffff"
