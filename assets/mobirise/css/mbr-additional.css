@@ -2153,11 +2153,12 @@ body {
   color: #cc2952;
 }
 .cid-r1Voajqn7L {
-  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #efefef;
 }
 .cid-r1Voajqn7L .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-r1Voajqn7L .mbr-figure {
   margin: 0 auto;
