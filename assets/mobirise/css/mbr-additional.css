@@ -2056,6 +2056,30 @@ body {
 .cid-qWoGDEzMbf B {
   color: #cc2952;
 }
+.cid-rkLOlu0Xd6 {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rkLOlu0Xd6 .image-block {
+  margin: auto;
+}
+.cid-rkLOlu0Xd6 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rkLOlu0Xd6 figcaption {
+  position: relative;
+}
+.cid-rkLOlu0Xd6 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rkLOlu0Xd6 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rdTWfONjx0 {
   padding-top: 15px;
   padding-bottom: 0px;
